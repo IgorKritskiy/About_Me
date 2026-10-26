@@ -6,8 +6,9 @@ Some of my favorite projects include a combat sorter for use by the Game Master 
 
 My current project I am working on is called The Spell Librarian - a Discord bot that returns information for game rules and spell descriptions to help in reducing the bulk of opening multiple tabs and slow web-search results.
 
-I am familiar with the Java, Python, and C coding languages, and mainly use VS code to edit and run my programs,
-and I am always learning new things and trying to apply them to my projects!
+I am familiar with the Java, Python, and C coding languages and have taken a class on SQL.
+I mainly use VS code to edit and run my programs.
+I am always learning new things and trying to apply them to my projects!
 
 <!---
 ThePuckishBard/ThePuckishBard is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
